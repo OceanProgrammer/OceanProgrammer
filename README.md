@@ -1,26 +1,31 @@
 ### Hi, I am OceanProgrammer👋🏻
--------
+=========
 
-### Links:
-* YouTube: https://www.youtube.com/channel/UCjuQCg9ybqPcIGmVTC4Wx2A?sub_confirmation=1
+## 🔗 Links
+![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCjuQCg9ybqPcIGmVTC4Wx2A?style=social) 
 
-* GitHub: https://github.com/OceanProgrammer
+[![linkedin](https://img.shields.io/github/followers/oceanprogrammer?style=social)](https://github.com/oceanprogrammer)
+
+[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/soumyajit_dass)
+
 
 ### Connect with me:
 * Feel free to comment on my YouTube videos
 * Email me at- *oceanprogrammer@gmail.com*
 
 ### About
-Hello world!😉 OceanProgrammer is my attempt to teach programming with NOTES. Yes, you read it right. I provide notes of *almost* each video in the description. If you face any problems in downloading notes, check it on github. I too provide source code of every video in github whose link I always provide in description. If you face any problem, feel free to comment or email me(oceanprogrammer@gmail.com).
+Hello world! Welcome to the About section ;-) OceanProgrammer is my attempt to teach programming with NOTES. Source code & notes of every video is pushed into github whose link I always provide in description. If you face any problem, feel free to comment or email me!
+Thanks for reading :)
 Happy coding!
 
 ### More about me
-- ⚡I am currently working on a python course with handwritten NOTES🗒
-- I am thinking of more things too.😀
+- [Created complete Git and GitHub tutorial with notes & cheatsheet](https://youtu.be/RtS1tBywIBk)
+- [Created complete Python🐍 course with notes](https://youtu.be/X5z7L3wInDE) <br>
+(Working of more things too...)
 
 Support
 -------
 
-If you find this helpful consider the following:
-- Subscribing to this channel▶, sharing the videos🔗, liking them👍🏻, important thing commenting🗨... This motivates me a lot
-- Following me on GitHub
+If you find these helpful consider subscribing to this channel, sharing the videos, liking them
+===
+Thanks you :)
